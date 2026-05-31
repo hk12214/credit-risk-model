@@ -1,0 +1,14 @@
+# Data and models
+data/
+*.pkl
+*.joblib
+
+# MLflow tracking
+mlruns/
+mlflow_artifacts/
+
+# Python environment
+__pycache__/
+*.pyc
+.venv/
+.env
